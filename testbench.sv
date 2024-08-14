@@ -1,5 +1,5 @@
 // Dual Port RAM Testbench
-// testbench.sv
+// Rakshith Suresh 14/08/24
 
 module dual_port_ram_tb;
   reg [7:0] data_a, data_b; //input data
